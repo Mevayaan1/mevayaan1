@@ -14,10 +14,10 @@ Freelance full-stack developer from Ahmedabad, India. I build and ship real prod
 ![Vercel](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff)
 
 ## Featured projects
-
+- 🔭 I’m currently working on **[CaforaVibes]** ([Live](Caforavibes.in))
+  
 - **[BillMate](https://github.com/mevayaan1/BillMate)** ([live](https://bill-mate-lemon.vercel.app)): GST billing and inventory for a single shop. Invoice numbering, GST split and stock changes run in one Postgres transaction, with an append-only stock ledger and tests against a real in-memory Postgres.
-- **[Inventory & Billing ERP](https://github.com/mevayaan1/inventory-billing-erp)** ([live](https://inventory-billing-erp.vercel.app)): inventory and billing UI built with React and TypeScript.
-- **[Pixeldrift](https://github.com/mevayaan1/Pixeldrift)** ([live](https://pixeldrift.vercel.app)): playful web-agency concept exploring React and Motion animation.
+- **[Inventory & Billing ERP](https://github.com/mevayaan1/inventory-billing-erp)** ([live](): inventory and billing UI built with React and TypeScript.
 - **[Portfolio](https://github.com/mevayaan1/Portfolio)** ([live](https://ayaanmev.vercel.app)): my personal site.
 
 ## Get in touch
